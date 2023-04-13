@@ -1,4 +1,4 @@
-# BI_analyst_test
+# BI analyst test (for Data Sfera)
 
 Техническое задание
 
